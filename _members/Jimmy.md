@@ -1,6 +1,6 @@
 ---
 name: Jimmy Huang
-image: images/team/Jimmy.jpg
+image: images/team/jimmy.jpg
 role: research-pathway
 group: dual
 description: Research Pathway Student at USYD
