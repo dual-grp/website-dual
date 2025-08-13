@@ -2,7 +2,7 @@
 name: Jimmy Huang
 image: images/team/Jimmy.jpg
 role: research-pathway
-group: DUAL
+group: dual
 description: Research Pathway Student at USYD
 links:
   github: https://github.com/v1n4k
