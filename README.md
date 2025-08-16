@@ -19,7 +19,7 @@ This website serves as the central hub for information about our research group,
 - **Alumni**: Former members with their current positions and contributions
 
 ### 🚀 Projects
-- **GOODSPEED**: Speculative decoding for efficient LLM inference at the edge
+- **WaSeCom**: Wasserstein Distributionally Robust Wireless Semantic Communication with Large AI Models
 - **Research Projects**: Ongoing investigations in distributed AI and optimization
 
 ### 📞 Contact
