@@ -9,6 +9,10 @@
 
 {% assign title = title | xml_escape %}
 
+{% if title == nil or title == "" %}
+  {% assign title = site.title | xml_escape %}
+{% endif %}
+
 {% assign fulltitle = "" | split: "," %}
 {% if title and title != "" %}
   {% assign fulltitle = fulltitle | push: title %}

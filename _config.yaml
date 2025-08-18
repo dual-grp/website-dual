@@ -1,7 +1,7 @@
 # site properties and page defaults
-# title: Distributed compUting, optimizAtion, and Learning (DUAL) group at USyd
+title: Distributed compUting, optimizAtion, and Learning (DUAL) group at USyd
 subtitle: Distributed compUting, optimizAtion, and Learning (DUAL) group at USyd
-description: please Input context
+description: Research group at the University of Sydney focusing on distributed computing, optimization, and machine learning.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
