@@ -1,56 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.48550/ARXIV.2506.03167
-  title: Distributionally Robust Wireless Semantic Communication with Large AI Models
-  authors:
-  - Long Tan Le
-  - Senura Hansaja Wanasekara
-  - Zerun Niu
-  - Yansong Shi
-  - Nguyen H. Tran
-  - Phuong Vo
-  - Walid Saad
-  - Dusit Niyato
-  - Zhu Han
-  - Choong Seon Hong
-  - H. Vincent Poor
-  publisher: arXiv
-  date: '2024-01-01'
-  link: https://doi.org/g9v3k4
-  orcid: 0009-0004-1110-737X
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: A distributionally robust approach for wireless semantic communication
-    with large AI models that addresses uncertainty in wireless channels and semantic
-    information transmission, enhancing reliability in AI-powered communication systems.
-  buttons:
-  - type: source
-    text: ArXiv
-    link: https://arxiv.org/abs/2506.03167
-  tags:
-  - semantic communication
-  - large AI models
-  - distributionally robust optimization
-  - wireless communication
-  - uncertainty
-  - robustness
-  journal: arXiv preprint
-- id: doi:10.1109/atc63255.2024.10908307
-  title: Lossy Compression of Multi-Channel EEG and PPG Signals Based on Golomb-Rice
-    Coding with Parameter Estimation
-  authors:
-  - Senura Hansaja Wanasekara
-  - Han Huy Dung
-  - Ngoc Hung Nguyen
-  - Van-Dinh Nguyen
-  publisher: 2024 International Conference on Advanced Technologies for Communications
-    (ATC)
-  date: '2024-10-17'
-  link: https://doi.org/g9wbrw
-  orcid: 0009-0004-1110-737X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: arxiv:2006.08848
   title: Personalized Federated Learning with Moreau Envelopes
   authors:
@@ -253,6 +202,41 @@
   - robustness
   - heterogeneity
   journal: Mobile Networks and Applications
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/ARXIV.2506.03167
+  title: Distributionally Robust Wireless Semantic Communication with Large AI Models
+  authors:
+  - Long Tan Le
+  - Senura Hansaja Wanasekara
+  - Zerun Niu
+  - Yansong Shi
+  - Nguyen H. Tran
+  - Phuong Vo
+  - Walid Saad
+  - Dusit Niyato
+  - Zhu Han
+  - Choong Seon Hong
+  - H. Vincent Poor
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g9v3k4
+  type: paper
+  description: A distributionally robust approach for wireless semantic communication
+    with large AI models that addresses uncertainty in wireless channels and semantic
+    information transmission, enhancing reliability in AI-powered communication systems.
+  buttons:
+  - type: source
+    text: ArXiv
+    link: https://arxiv.org/abs/2506.03167
+  tags:
+  - semantic communication
+  - large AI models
+  - distributionally robust optimization
+  - wireless communication
+  - uncertainty
+  - robustness
+  journal: arXiv preprint
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2407.07421
