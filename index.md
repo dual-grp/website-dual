@@ -5,7 +5,7 @@
 
 {% capture text %}
 
-Our research integrates distributed computing, mathematical optimization, and artificial intelligence to build scalable, efficient, and interpretable learning systems. By combining rigorous theoretical foundations with practical deployment, we deliver intelligent solutions that perform reliably in real-world, resource-constrained environments.
+We conduct cutting-edge research in artificial intelligence, federated learning, and large language models. Our work focuses on developing efficient, fair, and interpretable AI systems that can operate effectively in distributed and resource-constrained environments.
 
 {%
   include button.html
