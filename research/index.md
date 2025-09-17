@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Our research investigates the synergistic interplay of distributed computing, mathematical optimization, and artificial intelligence to create scalable, efficient, and trustworthy machine learning systems. We develop algorithms that jointly exploit distributed architectures and optimization principles to advance the efficiency, fairness, and interpretability of modern AI, with particular emphasis on large language models, federated and edge learning, and real-time collaborative inference. 
-
-At the same time, the team explores both theoretical foundations and practical applications, contributing to the advancement of intelligent systems capable of operating effectively in real-world, resource-constrained environments. This integrated approach delivers new theoretical insights and deployable frameworks for next-generation AI across heterogeneous and dynamic computational settings.
+Our research explores the intersection of distributed computing, mathematical optimization, and artificial intelligence to build scalable, efficient, and reliable edge learning systems. We design algorithms that integrate distributed architectures with optimization principles to improve the efficiency, fairness, and interpretability of modern AI-edge—focusing on large language models, federated and edge learning, and real-time collaborative inference. By linking theoretical foundations with practical deployment, the team develops new insights and deployable frameworks that enable intelligent systems to operate reliably in heterogeneous, resource-constrained environments.
 
 {% include section.html %}
 
