@@ -211,3 +211,20 @@
     - reward modeling
     - LLM alignment
   journal: arXiv preprint
+
+- id: doi:10.48550/ARXIV.2512.09963
+  type: paper
+  description: GOODSPEED is a distributed speculative decoding framework for multi-server edge inference that optimizes goodput while ensuring proportional fairness across heterogeneous draft servers.
+  date: 2025-12-14
+  buttons:
+    - type: source
+      text: ArXiv
+      link: https://arxiv.org/abs/2512.09963
+  tags:
+    - large language models
+    - speculative decoding
+    - distributed systems
+    - edge computing
+    - fairness
+    - goodput
+  journal: arXiv preprint (accepted at INFOCOM 2026)

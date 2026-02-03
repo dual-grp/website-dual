@@ -1,6 +1,6 @@
 ---
 name: Nguyen Tran
-image: images/team/nguyen.png
+image: images/team/nguyen.jpg
 role: professor
 description: Associate Professor; Director of the DUAL Group at the University of Sydney
 links:
