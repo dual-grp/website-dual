@@ -11,7 +11,7 @@ tags:
   - edge computing
   - distributed systems
   - research
-published: false
+published: true
 ---
 
 # GOODSPEED – Speculative Decoding for Efficient and Fair LLM Inference at the Edge
