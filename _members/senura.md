@@ -1,6 +1,6 @@
 ---
 name: Senura Hansaja Wanasekara
-image: images/team/senura.jpg
+image: images/team/senu.jpg
 role: phd
 description: PhD Candidate
 ---
