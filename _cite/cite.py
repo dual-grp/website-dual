@@ -17,8 +17,12 @@ load_dotenv()
 errors = []
 warnings = []
 
+# resolve paths relative to repo, not current working directory
+cite_dir = Path(__file__).resolve().parent          # .../_cite
+repo_root = cite_dir.parent                         # repo root
+
 # output citations file
-output_file = "_data/citations.yaml"
+output_file = repo_root / "_data" / "citations.yaml"
 
 
 log()
@@ -34,12 +38,12 @@ plugins = ["google-scholar", "pubmed", "orcid", "sources"]
 # loop through plugins
 for plugin in plugins:
     # convert into path object
-    plugin = Path(f"plugins/{plugin}.py")
+    plugin = cite_dir / "plugins" / f"{plugin}.py"
 
     log(f"Running {plugin.stem} plugin")
 
     # get all data files to process with current plugin
-    files = Path.cwd().glob(f"_data/{plugin.stem}*.*")
+    files = (repo_root / "_data").glob(f"{plugin.stem}*.*")
     files = list(filter(lambda p: p.suffix in [".yaml", ".yml", ".json"], files))
 
     log(f"Found {len(files)} {plugin.stem}* data file(s)", indent=1)

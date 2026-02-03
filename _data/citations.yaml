@@ -6,7 +6,6 @@
   - Long Tan Le
   - Senura Hansaja Wanasekara
   - Zerun Niu
-  - Yansong Shi
   - Nguyen H. Tran
   - Phuong Vo
   - Walid Saad
@@ -335,5 +334,39 @@
   - reward modeling
   - LLM alignment
   journal: arXiv preprint
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/ARXIV.2512.09963
+  title: 'GoodSpeed: Optimizing Fair Goodput with Adaptive Speculative Decoding in
+    Distributed Edge Inference'
+  authors:
+  - Phuong Tran
+  - Tzu-Hao Liu
+  - Long Tan Le
+  - Tung-Anh Nguyen
+  - Van Quan La
+  - Eason Yu
+  - Han Shu
+  - Choong Seon Hong
+  - Nguyen H. Tran
+  publisher: arXiv
+  date: '2025-12-14'
+  link: https://doi.org/hbnjnc
+  type: paper
+  description: GOODSPEED is a distributed speculative decoding framework for multi-server
+    edge inference that optimizes goodput while ensuring proportional fairness across
+    heterogeneous draft servers.
+  buttons:
+  - type: source
+    text: ArXiv
+    link: https://arxiv.org/abs/2512.09963
+  tags:
+  - large language models
+  - speculative decoding
+  - distributed systems
+  - edge computing
+  - fairness
+  - goodput
+  journal: arXiv preprint (accepted at INFOCOM 2026)
   plugin: sources.py
   file: sources.yaml
