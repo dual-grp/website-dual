@@ -2,7 +2,7 @@
 name: Nhat Huy Le
 image: images/team/nhathuyle.jpg
 role: phd
-description: PhD Student in Federated and Distributed Learning
+description: PhD Candidate in Federated and Distributed Learning
 links:
   github: https://github.com/Hayden-Le
   email: huyln.work@gmail.com
