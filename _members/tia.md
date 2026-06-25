@@ -1,8 +1,7 @@
 ---
 name: Qingwen Tang
 image: images/team/tia.jpg
-role: research-pathway
-group: dual
-description: Master student at USYD
+role: alumni
+description: DUAL Group Alumni
 ---
-Master of Computer Science student at the University of Sydney, exploring reinforcement learning.
+Qingwen Tang is a former member of the DUAL group at the University of Sydney. Qingwen explored reinforcement learning as a Master of Computer Science student.
